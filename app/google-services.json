@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "83629652331",
+    "project_id": "sugar-bio-saveetha",
+    "storage_bucket": "sugar-bio-saveetha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83629652331:android:85777f77cb101a8d5f342e",
+        "android_client_info": {
+          "package_name": "com.example.registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83629652331-d4kdqhjtb9d6c5umqpggcci9spnfn4ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQTNPZSEOtIRdFpYmNj7EHtfdLp7cBB7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83629652331-d4kdqhjtb9d6c5umqpggcci9spnfn4ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83629652331:android:bcd095bbc6b2aa4e5f342e",
+        "android_client_info": {
+          "package_name": "com.example.sugar_bio_saveetha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83629652331-d4kdqhjtb9d6c5umqpggcci9spnfn4ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQTNPZSEOtIRdFpYmNj7EHtfdLp7cBB7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83629652331-d4kdqhjtb9d6c5umqpggcci9spnfn4ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
